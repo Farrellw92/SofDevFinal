@@ -1,0 +1,13 @@
+MyDietFits
+
+Alpha Stages-
+
+Hello, and thank you for opening this document.
+
+Unfortunately, there was some obstacles completing everything I wanted to implement in this program, but I have created several buttons and windows that can be used to see the interface that could have been.
+
+To go to the "Exercise" Window, click on the picture above the Exercise Label.
+
+To go to the "Diet" Window, click on the picture above the Diet Label.
+
+To Exit the program, click on the Exit button located in the top left corner, accessible on all three windows.
